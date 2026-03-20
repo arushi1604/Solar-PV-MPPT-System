@@ -24,7 +24,7 @@ PV Array → Input Capacitor → Boost Converter → Load
 | Phase 1 | PV Array Modelling | I-V and P-V characteristics validated |
 | Phase 2 | DC-DC Boost Converter | Voltage step-up 54.7V → ~108V confirmed |
 | Phase 3 | P&O MPPT Integration | Dynamic duty cycle, MPP tracking achieved |
-| Phase 4 | With vs Without MPPT | MPPT essential — fixed D produces chaos |
+| Phase 4 | With vs Without MPPT | MPPT essential fixed D produces chaos |
 | Phase 5 | P&O vs IncCond Comparison | IncCond shows superior steady-state performance |
 
 ---
@@ -82,7 +82,7 @@ PV Array → Input Capacitor → Boost Converter → Load
 >
 > **With P&O MPPT:** Power recovers to 85–91 W within 0.02–0.05 s after disturbance
 >
-> **IncCond vs P&O:** Same MPP reached — IncCond gets there with less oscillation and stays cleaner
+> **IncCond vs P&O:** Same MPP reached, IncCond gets there with less oscillation and stays cleaner
 
 ---
 
