@@ -78,4 +78,5 @@ Solar-PV-MPPT-System/
 ---
 
 ## Report
-Full simulation report with theory, methodology, and results: [Report.pdf](Report/Report.pdf)
+Full simulation report with theory, methodology, and results: [Solar_PV_MPPT_Report.pdf](https://github.com/user-attachments/files/26152094/Solar_PV_MPPT_Report.pdf)
+
