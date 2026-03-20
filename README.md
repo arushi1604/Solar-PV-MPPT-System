@@ -98,11 +98,6 @@ Solar-PV-MPPT-System/
 ├── Results/
 │   ├── IV_curve.png
 │   ├── PV_curve.png
-│   ├── Boost_output.png
-│   ├── Vpv_MPPT.png
-│   ├── Ipv_MPPT.png
-│   ├── Ppv_MPPT.png
-│   ├── Vout_MPPT.png
 │   ├── Ppv_noMPPT.png
 │   ├── PnO_comparison.png
 │   └── IncCond_comparison.png
@@ -152,9 +147,14 @@ Solar-PV-MPPT-System/
 ### P-V Curve
 ![PV Curve](Results/PV_curve.png)
 
-### Ppv P&O vs IncCond
-![P&O](Results/PnO_comparison.png)
-![IncCond](Results/IncCond_comparison.png)
+### P&O MPPT — Power Response
+![P&O MPPT](Results/PnO_comparison.png)
+
+### Incremental Conductance MPPT — Power Response
+![IncCond MPPT](Results/IncCond_comparison.png)
+
+### Without MPPT — No Control (Fixed D=0.6)
+![No MPPT](Results/Ppv_noMPPT.png)
 
 ---
 
