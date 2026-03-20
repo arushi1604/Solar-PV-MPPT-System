@@ -152,10 +152,7 @@ Solar-PV-MPPT-System/
 ### P-V Curve
 ![PV Curve](Results/PV_curve.png)
 
-### Boost Converter Output
-![Boost Output](Results/Boost_output.png)
-
-### P&O vs IncCond
+### Ppv P&O vs IncCond
 ![P&O](Results/PnO_comparison.png)
 ![IncCond](Results/IncCond_comparison.png)
 
