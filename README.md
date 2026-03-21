@@ -91,7 +91,7 @@ PV Array → Input Capacitor → Boost Converter → Load
 Solar-PV-MPPT-System/
 ├── Models/
 │   ├── PV_Model.slx              # Phase 1 — PV array characterisation
-│   ├── Boost_Converter.slx       # Phase 2 — fixed duty cycle boost
+│   ├── Boost_Convertor.slx       # Phase 2 — fixed duty cycle boost
 │   ├── MPPT_PnO.slx              # Phase 3 — P&O MPPT controlled
 │   ├── MPPT_No_Control.slx       # Phase 4 — fixed D=0.6, no MPPT
 │   └── MPPT_IncCond.slx          # Phase 5 — Incremental Conductance
@@ -124,7 +124,7 @@ Solar-PV-MPPT-System/
 | Phase | File | Description |
 |-------|------|-------------|
 | Phase 1 | [PV_Model.slx](Models/PV_Model.slx) | PV array characterisation — I-V and P-V curves |
-| Phase 2 | [Boost_Converter.slx](Models/Boost_Converter.slx) | Fixed duty cycle boost — voltage step-up validation |
+| Phase 2 | [Boost_Convertor.slx](Models/Boost_Convertor.slx) | Fixed duty cycle boost — voltage step-up validation |
 | Phase 3 | [MPPT_PnO.slx](Models/MPPT_PnO.slx) | P&O MPPT controlled system |
 | Phase 4 | [MPPT_No_Control.slx](Models/MPPT_No_Control.slx) | No MPPT — fixed D=0.6 for comparison |
 | Phase 5 | [MPPT_IncCond.slx](Models/MPPT_IncCond.slx) | Incremental Conductance MPPT |
