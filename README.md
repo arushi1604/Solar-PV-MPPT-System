@@ -148,15 +148,17 @@ Solar-PV-MPPT-System/
 ### P-V Curve
 ![PV Curve](Results/PV_curve.png)
 
-### P&O MPPT — Power Response
-![P&O MPPT](Results/PnO_comparison.png)
+### PV Power — With MPPT (P&O)
+![Ppv MPPT](Results/Ppv_MPPT.png)
 
-### Incremental Conductance MPPT — Power Response
-![IncCond MPPT](Results/IncCond_comparison.png)
-
-### Without MPPT — No Control (Fixed D=0.6)
+### PV Power — Without MPPT (Fixed D=0.6)
 ![No MPPT](Results/Ppv_noMPPT.png)
 
+### P&O MPPT — Algorithm Comparison
+![P&O Comparison](Results/PnO_MPPT_comp.png)
+
+### Incremental Conductance - Algorithm Comparison
+![IncCond Comparison](Results/IncCond_MPPT_comp.png)
 ---
 
 ## Report
