@@ -98,9 +98,10 @@ Solar-PV-MPPT-System/
 ├── Results/
 │   ├── IV_curve.png
 │   ├── PV_curve.png
+│   ├── Ppv_MPPT.png
 │   ├── Ppv_noMPPT.png
-│   ├── PnO_comparison.png
-│   └── IncCond_comparison.png
+│   ├── PnO_MPPT_comp.png
+│   └── IncCond_MPPT_comp.png
 ├── Report/
 │   └── Solar_PV_MPPT_Report.pdf
 └── README.md
